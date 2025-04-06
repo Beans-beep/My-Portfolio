@@ -18,6 +18,6 @@ Hey! This is my personal portfolio website — a simple, clean space to showcase
 - ChatGPT
 
 ## 🔗 Live Site
-[Visit Portfolio]
+https://ashel-noronha-portfolio.netlify.app/
 
 Still adding a few updates! Always a work-in-progress:)
